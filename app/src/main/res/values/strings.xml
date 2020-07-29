@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Welnfo</string>
+    <string name="unknow_error">未知错误</string>
+    <string name="conn_error">连接失败</string>
+    <string name="conn_timeout">连接超时</string>
+    <string name="net_error">网络错误</string>
+    <string name="parse_error">解析异常</string>
+    <string name="net_unused">当前网络不可用</string>
+    <string name="register">注册</string>
+    <string name="name_or_psd_not_null">"用户名或者密码不能为空"</string>
+    <string name="register_success">注册成功</string>
+    <string name="login_fail">登录失败</string>
+    <string name="login_success">登录成功</string>
+    <string name="input_info">请完善资料</string>
+    <string name="complete">完成</string>
+    <string name="name_repeat">该用户名已被别人使用</string>
+    <string name="add_succees">添加好友成功</string>
+    <string name="add_friend_fail">添加好友失败</string>
+    <string name="conversion">会话</string>
+    <string name="contacts">通讯录</string>
+    <string name="discovery">发现</string>
+    <string name="daily_news">日报</string>
+    <string name="sections">专栏</string>
+    <string name="hot">热门</string>
+    <string name="itinfo">IT资讯</string>
+    <string name="navi">导航</string>
+</resources>
